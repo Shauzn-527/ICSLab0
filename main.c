@@ -3,6 +3,6 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("Hello, this is ICSLab0 tomerge.\n");
+    printf("Hello, this is ICSLab0 toremerge.");
     return 0;
 }
